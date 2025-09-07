@@ -9,7 +9,7 @@ main_frame      = [81.7,125.2,7];                            // Dimensions of th
 frame_thickness = 0.7;
 bottom_cut_out  = [74,116,main_frame[2]-frame_thickness];    // Dimensions of the hollowed area under
 
-text_height = frame_thickness; //0.3;        // Raised text height
+text_height = 0.3;        // Raised text height (set to frame_thickness to go through)
 text_box    = [70,40,1];
 
 frame_color = "#000000";
