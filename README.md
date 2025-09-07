@@ -13,6 +13,8 @@
 
 So here is what this project is all about, adapting tape cases so they work well with 3" floppies.
 
+This has been a long time in the making as you can see the process starting all the way back to 2019 on this [Blog post](https://blog.defence-force.org/index.php?page=articles&ref=ART59).
+
 I think it looks quite nice like using proper colors, inlays and labels:
 
 ![Final result](images/final_box_1.jpg)
